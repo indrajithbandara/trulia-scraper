@@ -1,0 +1,16 @@
+{
+  "name": "rq-scraper",
+  "version": "1.0.0",
+  "description": "scrape realquest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew brown",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.7.0",
+    "nightmare-xpath": "^2.0.1",
+    "xlsx": "^0.8.0"
+  }
+}
